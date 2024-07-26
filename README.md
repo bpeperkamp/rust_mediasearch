@@ -4,4 +4,4 @@ I made this application in Rust, mainly to learn the language. It is challenging
 
 Screenshots:
 
-![In motion](/../<main>/screenshots/peek.gif?raw=true")
+![In motion](/../main/screenshots/peek.gif?raw=true")
