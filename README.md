@@ -1,6 +1,8 @@
-An application to search for movies and series. It will print the result in the terminal.
+## A Rust application to search series and movies
 
-I made this application in Rust, mainly to learn the language. It is challenging to learn this language, but i like it!
+An application to search for movies and series. It will print the result in the terminal. You will need an API key from ![TMDB](https://developer.themoviedb.org/docs/getting-started)
+
+I made this application in Rust, mainly to learn a new future proof language. It is challenging, but i like it!
 
 Screenshots:
 
